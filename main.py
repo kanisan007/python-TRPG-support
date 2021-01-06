@@ -34,5 +34,12 @@ elif yarukoto==2:
 
         print(listB[dice_kekka])
 
+    else:
+        print('入力が不正です。もう一度やり直してください。')
+
+else:
+        print('入力が不正です。もう一度やり直してください。')
+
+
 
 
